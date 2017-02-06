@@ -11,8 +11,7 @@
     "authors": [
         {
             "name": "Ganesh",
-            "email": "ganesh.alkurn@gmail.com"
-            "homepage": "https://gitlab.com/ganesh.alkurn/"
+            "email": "ganesh.alkurn@gmail.com" 
         }
     ],
     "require": {
